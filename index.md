@@ -52,7 +52,6 @@ Anticipated graduation: Spring 2022 or earlier
     * 3D Graphics (OpenGL, GLFW, Raylib, Qt3D, Magnum)
 * C, x86 Assembly, Verilog, HTML + CSS / Sass, Octave / Matlab, LabView
 
-
 ### Tools
 
 * Git
