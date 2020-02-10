@@ -33,15 +33,37 @@ Anticipated graduation: Spring 2022 or earlier
 
 ### Relevant Courseload
 
-`Spring 2020`
-- Applied Software Design (Level 3 C++)
-- Unix for Engineers (Linux, Bash)
+* Applied Software Design (Level 3 C++)
+* Unix for Engineers (Linux, Bash)
 
 ## Skills
 
 ### Programming Languages
 
+* Java
+    * Unit testing (JUnit)
+    * Event-driven programming (Curriculum-specific libraries)
+* C++
+    * Unit testing (Catch2)
+    * Event-driven programming (libsigc++ & Qt)
+    * Concurrency (OpenMP, TBB, Posix)
+    * Interface design (Gtkmm, Qt)
+    * 3D Graphics (OpenGL, GLFW, Raylib, Qt3D, Magnum)
+* C, x86 Assembly, Verilog, HTML + CSS / Sass, Octave / Matlab, LabView
+
+
 ### Tools
+
+* Git
+* CLion, intelliJ, PHPStorm, Vim, eclipse
+* GCC, Javac
+* Cmake, Make
+* GDB, Valgrind, Perf
+* Linux (Fedora, CentOS)
+* VirtualBox, Vagrant
+* Ansible Playbook, Bash Scripting
+* Doxygen, JavaDoc
+* Markdown, LaTeX
 
 
 <!-- ### Footer
