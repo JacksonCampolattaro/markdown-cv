@@ -4,6 +4,7 @@ title: Jackson Campolattaro's CV
 ---
 
 # Jackson Campolattaro
+
 Computer Engineering student at Virginia Tech
 
 <div id="webaddress">
@@ -65,6 +66,29 @@ Anticipated graduation: Spring 2022 or earlier
 * Doxygen, JavaDoc
 * Markdown, LaTeX
 
+## Experience
+
+`June 2019–August 2019`
+__Telos Corporation Innovation Committee__
+
+Intern, worked in a 7 person group of interns researching the viability of future software security products. 
+Built the frontend of a replacement for Telos’ employee intranet solution.
+
+`May 2018`
+__Janelia HHMI Capstone Program__
+
+Worked with engineers and other students designing LabView based software and
+equipment to be used by medical researchers at Janelia.
+
+`September 2016–June 2018`
+__Math Tutor (Self Employed)__
+
+Scheduled appointments and worked with approximately 20 different students 4th-9th grade to help them with subjects they struggled with.
+
+`March 2014–March 2018`
+__Brambleton Kids Run The Nation__
+
+Assisted coaches in and out of practices, encouraging students ages 5-14.
 
 <!-- ### Footer
 
