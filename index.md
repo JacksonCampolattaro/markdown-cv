@@ -16,6 +16,34 @@ Computer Engineering student at Virginia Tech
 <a href="https://github.com/JacksonCampolattaro">github.com/JacksonCampolattaro</a>
 </div>
 
+## About
+
+Self-motivated Computer Engineering Student with an enthusiasm for Open Source and a strong work ethic. 
+Seeking a position as part of an established software development team.
+
+## Education
+
+Sophomore at Virginia Tech
+
+Pursuing a major in Computer Engineering with a minor in Computer Science
+
+98 Credit Hours Earned
+
+Anticipated graduation: Spring 2022 or earlier
+
+### Relevant Courseload
+
+`Spring 2020`
+- Applied Software Design (Level 3 C++)
+- Unix for Engineers (Linux, Bash)
+
+## Skills
+
+### Programming Languages
+
+### Tools
+
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
