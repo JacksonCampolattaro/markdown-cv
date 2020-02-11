@@ -37,6 +37,8 @@ body {
 }
 ol, ul {
 	list-style: none;
+
+	columns: 3;
 }
 blockquote, q {
 	quotes: none;
@@ -135,6 +137,7 @@ h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
+	margin-top: 1em;
 }
 
 h2 {

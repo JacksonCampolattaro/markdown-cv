@@ -30,27 +30,35 @@ Pursuing a major in Computer Engineering with a minor in Computer Science
 
 98 Credit Hours Earned
 
-Anticipated graduation: Spring 2022 or earlier
+Anticipated graduation Spring 2022 or earlier
 
-### Relevant Courseload
+### Courseload
 
 * Applied Software Design (Level 3 C++)
 * Unix for Engineers (Linux, Bash)
 
 ## Skills
 
-### Programming Languages
+### Languages
 
-* Java
-    * Unit testing (JUnit)
-    * Event-driven programming (Curriculum-specific libraries)
-* C++
-    * Unit testing (Catch2)
-    * Event-driven programming (libsigc++ & Qt)
-    * Concurrency (OpenMP, TBB, Posix)
-    * Interface design (Gtkmm, Qt)
-    * 3D Graphics (OpenGL, GLFW, Raylib, Qt3D, Magnum)
-* C, x86 Assembly, Verilog, HTML + CSS / Sass, Octave / Matlab, LabView
+`5 Years experience`
+**C++**
+
+* Unit testing (Catch2)
+* Event-driven programming (libsigc++ & Qt)
+* Concurrency (OpenMP, TBB, Posix)
+* Smart pointers
+* Interface design (Gtkmm, Qt)
+* 3D Graphics (OpenGL, GLFW, Raylib, Qt3D, Magnum)
+
+`3 Years experience`
+**Java**
+
+* Unit testing (JUnit)
+* Event-driven programming (Curriculum-specific libraries)
+
+`1 Year Experience`
+**C, x86 Assembly, Verilog, HTML + CSS / Sass, Octave / Matlab**
 
 ### Tools
 
@@ -65,7 +73,7 @@ Anticipated graduation: Spring 2022 or earlier
 * Doxygen, JavaDoc
 * Markdown, LaTeX
 
-## Experience
+## Employment
 
 `June 2019–August 2019`
 **Telos Corporation Innovation Committee**
